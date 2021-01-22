@@ -1,0 +1,64 @@
+{
+  "title": "鴻福堂－自家喜慶系列",
+  "topBar": {
+    "brand": {
+      "name": "鴻福堂官方網頁",
+      "image": "hft_logo.png",
+      "url": "http://www.hungfooktong.com"
+    },
+    "socials": {
+      "items": [
+        {
+          "name": "Facebook",
+          "image": "fb_logo.png",
+          "url": "https://www.facebook.com/HUNGFOOKTONGFANS/"
+        },
+        {
+          "name": "Youtube",
+          "image": "youtube_logo.png",
+          "url": "https://www.youtube.com/user/hftfans/"
+        }
+      ]
+    }
+  },
+  "banner": {
+    "image": "banner.png"
+  },
+  "footer": {
+    "background": {
+      "color": "#ef9996"
+    },
+    "items": [
+      {
+        "name": "結婚禮卡",
+        "url": "http://www.hungfooktong.com/weddingcard/index.php",
+        "image": "footer_item_1.png"
+      },
+      {
+        "name": "自家豬腳薑醋禮卡",
+        "url": "http://www.hungfooktong.com/joyousseries/bbcard_index.php",
+        "image": "footer_item_2.png"
+      },
+      {
+        "name": "野生冬蟲夏草滴雞精",
+        "url": "https://www.hungfooktong.com/chickenessence/",
+        "image": "footer_item_3.png"
+      },
+      {
+        "name": "滴虱目魚精",
+        "url": "https://www.hungfooktong.com/fishessence/",
+        "image": "footer_item_4.png"
+      },
+      {
+        "name": "坐月食療知多啲",
+        "url": "http://promo.hungfooktong.com/hftcms/index.php?option=com_content&view=article&id=378",
+        "image": "footer_item_5.png"
+      },
+      {
+        "name": "養胎坐月食療資訊站",
+        "url": "http://promo.hungfooktong.com/hftcms/index.php?option=com_content&view=article&id=242",
+        "image": "footer_item_6.png"
+      }
+    ]
+  }
+}
